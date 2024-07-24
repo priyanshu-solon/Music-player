@@ -262,6 +262,8 @@ audio.addEventListener("ended", () => {
 pauseSong()
  setPlayerDisplay()
  highlightCurrentSong()
+  setPlayButtonAccessibleText()
+ highlightCurrentSong()
  setPlayButtonAccessibleText()
 
     }
